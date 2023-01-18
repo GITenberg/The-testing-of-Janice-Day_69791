@@ -1,0 +1,31 @@
+_repo: The-testing-of-Janice-Day_69791
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Turner, Corinne
+    gutenberg_agent_id: '25153'
+    url: http://www.gutenberg.org/2009/agents/25153
+creator:
+  author:
+    agent_name: Long, Helen Beecher
+    gutenberg_agent_id: '931'
+    url: http://www.gutenberg.org/2009/agents/931
+description: ''
+gutenberg_issued: '2023-01-14'
+identifiers:
+  gutenberg: '69791'
+language: en
+pgterms:marc905: 20220621185503long
+pgterms:marc906: '1915'
+pgterms:marc907: us
+production_note: David Edwards, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: 'United States: Sully and Kleinteich,1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The testing of Janice Day
+url: http://www.gutenberg.org/ebooks/69791
