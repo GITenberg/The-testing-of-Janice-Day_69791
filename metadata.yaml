@@ -5,12 +5,17 @@ contributor:
     agent_name: Turner, Corinne
     gutenberg_agent_id: '25153'
     url: http://www.gutenberg.org/2009/agents/25153
+covers:
+- cover_type: archival
+  image_path: 69791-h/images/cover.jpg
 creator:
   author:
     agent_name: Long, Helen Beecher
     gutenberg_agent_id: '931'
     url: http://www.gutenberg.org/2009/agents/931
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69791#The-testing-of-Janice-Day
 gutenberg_issued: '2023-01-14'
 identifiers:
   gutenberg: '69791'
